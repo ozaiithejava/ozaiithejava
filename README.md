@@ -53,13 +53,3 @@
 | [![Proje 4](img_link_4)](proj4_link) | Proje 4           | Açıklama 4           | 2023-08-20  | [Link 4](proj4_link)        |
 | [![Proje 5](img_link_5)](proj5_link) | Proje 5           | Açıklama 5           | 2023-12-10  | [Link 5](proj5_link)        |
 
-### Test:
-
-**GitHub İstatistikleri:**
-```markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact)](https://github.com/ozaiithejava/github-readme-stats)
-
-- JavaScript: xx%
-- Java: yy%
-- TypeScript: zz%
-- ...
