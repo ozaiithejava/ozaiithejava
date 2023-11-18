@@ -1,37 +1,35 @@
-<h3 align="center">A developer from Turkey</h3>
+## 👋 Merhaba, Ben Bir Türk Geliştiriciyim!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://instagram.com/yigithejava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigithejava" height="30" width="40" /></a>
-  <a href="https://discord.gg/ozaii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ozaii" height="30" width="40" /></a>
-</p>
+### 🌐 Bağlantılar:
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/yigithejava)
+[![Discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/ozaii)
 
-<h3 align="left">Languages:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
-  <!-- Diğer dilleri buraya ekleyebilirsin -->
-</p>
+### 💻 Diller:
+- C#
+- C
+- C++
+- JavaScript
+- TypeScript
+- Node.js
+- Kotlin
+- Java
 
-<h3 align="left">Tools and Frameworks:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <!-- Diğer araçları ve çerçeveleri buraya ekleyebilirsin -->
-</p>
+### 🛠️ Framework'ler:
+- Netty
+- Spring Boot
+- Express
+- Next.js
 
-<h3 align="left">Database:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <!-- Diğer veritabanlarını buraya ekleyebilirsin -->
-</p>
+### 🗃️ Veritabanları:
+- MongoDB
+- Redis
+- MySQL
+- Oracle
 
-<h3 align="left">Design and Others:</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  <!-- Diğer tasarım araçlarını buraya ekleyebilirsin -->
-</p>
+### 🖥️ Programlar:
+- Visual Studio Code
+- Visual Studio
+- IntelliJ IDEA
+- Android Studio
+- Eclipse
+- WebStorm
