@@ -41,3 +41,14 @@
 | Visual Studio Code | Visual Studio    | IntelliJ IDEA    | Eclipse          | WebStorm         | PhpStorm         | Android Studio   |
 | ------------------- | ---------------- | ---------------- | ----------------- | ----------------- | ----------------- | ----------------- |
 | [![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) | [![Visual Studio](https://img.shields.io/badge/-Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/) | [![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/) | [![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/) | [![WebStorm](https://img.shields.io/badge/-WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)](https://www.jetbrains.com/webstorm/) | [![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/) | [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
+
+### My Avarages Projects:
+
+
+| Proje Resmi                        | Proje Adı         | Ufak Açıklama        | Tarih       | Link                        |
+| ---------------------------------- | ----------------- | -------------------- | ----------- | --------------------------- |
+| [![Proje 1](img_link_1)](proj1_link) | Proje 1           | Açıklama 1           | 2023-01-01  | [Link 1](proj1_link)        |
+| [![Proje 2](img_link_2)](proj2_link) | Proje 2           | Açıklama 2           | 2023-02-15  | [Link 2](proj2_link)        |
+| [![Proje 3](img_link_3)](proj3_link) | Proje 3           | Açıklama 3           | 2023-05-03  | [Link 3](proj3_link)        |
+| [![Proje 4](img_link_4)](proj4_link) | Proje 4           | Açıklama 4           | 2023-08-20  | [Link 4](proj4_link)        |
+| [![Proje 5](img_link_5)](proj5_link) | Proje 5           | Açıklama 5           | 2023-12-10  | [Link 5](proj5_link)        |
