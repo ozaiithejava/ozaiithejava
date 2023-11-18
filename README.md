@@ -54,8 +54,12 @@
 
 ## My Avarages Projects(SooN)
 
-[![Proje 1](img_link_1)](proj1_link)
-[![Proje 2](img_link_2)](proj2_link)
-[![Proje 3](img_link_3)](proj3_link)
-[![Proje 4](img_link_4)](proj4_link)
-[![Proje 5](img_link_5)](proj5_link)
+## My Projects
+
+| Project Image                        | Project Name      | Brief Description   | Date         | Link                        |
+| ------------------------------------ | ----------------- | -------------------- | ------------ | --------------------------- |
+| [![Project 1](img_link_1)](proj1_link) | Project 1         | Description 1       | 2023-01-01   | [Link 1](proj1_link)        |
+| [![Project 2](img_link_2)](proj2_link) | Project 2         | Description 2       | 2023-02-15   | [Link 2](proj2_link)        |
+| [![Project 3](img_link_3)](proj3_link) | Project 3         | Description 3       | 2023-05-03   | [Link 3](proj3_link)        |
+| [![Project 4](img_link_4)](proj4_link) | Project 4         | Description 4       | 2023-08-20   | [Link 4](proj4_link)        |
+| [![Project 5](img_link_5)](proj5_link) | Project 5         | Description 5       | 2023-12-10   | [Link 5](proj5_link)        |
