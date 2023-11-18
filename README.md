@@ -1,8 +1,8 @@
 # Hi , this.yiğit;
 
-## My Skills:
+### My Skills:
 
-### Languages:
+#### Languages:
 
 | JavaScript     | TypeScript     | Node.js        | Next.js        |
 | -------------- | -------------- | -------------- | -------------- |
@@ -16,20 +16,20 @@
 | -------------- | -------------- |
 | [![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://www.cplusplus.com/) | [![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)](https://en.cppreference.com/w/c/language)
 
-## Databases:
+#### Databases:
 
 | MongoDB        | MySQL          | PostgreSQL      | SQLite          | Redis          |
 | -------------- | -------------- | -------------- | -------------- | -------------- |
 | [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/) | [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) | [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) | [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/) | [![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
 
-## My Program Set
+### My Program Set
 
 | Cinema 4D      | Unity          | CryEngine       | Adobe XD       | Photoshop      | Illustrator    | Canva          |
 | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
 | [![Cinema 4D](https://img.shields.io/badge/-Cinema_4D-05141E?style=for-the-badge&logo=cinema-4d&logoColor=white)](https://www.maxon.net/en/) | [![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/) | [![CryEngine](https://img.shields.io/badge/-CryEngine-000000?style=for-the-badge&logo=cryengine&logoColor=white)](https://www.cryengine.com/) | [![Adobe XD](https://img.shields.io/badge/-Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white)](https://www.adobe.com/products/xd.html) | [![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html) | [![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html) | [![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
-## Ides:
+### Ides:
 
 | Visual Studio Code | Visual Studio    | IntelliJ IDEA    | Eclipse          | WebStorm         | PhpStorm         | Android Studio   |
 | ------------------- | ---------------- | ---------------- | ----------------- | ----------------- | ----------------- | ----------------- |
