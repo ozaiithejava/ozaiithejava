@@ -57,9 +57,9 @@
 
 **GitHub İstatistikleri:**
 ```markdown
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)](https://github.com/YOUR_USERNAME/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact)](https://github.com/ozaiithejava/github-readme-stats)
 
-- Dil 1: xx%
-- Dil 2: yy%
-- Dil 3: zz%
+- JavaScript: xx%
+- Java: yy%
+- TypeScript: zz%
 - ...
