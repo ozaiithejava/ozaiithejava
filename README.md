@@ -1,10 +1,5 @@
 # Hi, this.yiğit;
 
-
-## 🎶 Now Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=LASTFM_USERNAME&cover_image=true)](https://open.spotify.com/user/LASTFM_USERNAME)
-
-
 ## Contact
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
