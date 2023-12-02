@@ -52,15 +52,7 @@
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-## My Avarages Projects(SooN)
-
-
-## My Projects
-
-| Project Image                       | Project Name | Brief Description                  | Date       | Link                          |
-| ------------------------------------ | ------------ | ---------------------------------- | ---------- | ----------------------------- |
-| [![Project 1](img_link_1)](proj1_link) | **Project 1** | Web Development Platform | 2023-01-01 | [Explore Project](proj1_link) |
-| [![Project 2](img_link_2)](proj2_link) | **Project 2** | E-commerce Mobile App | 2023-02-15 | [Explore Project](proj2_link) |
-| [![Project 3](img_link_3)](proj3_link) | **Project 3** | AI-driven Chatbot | 2023-05-03 | [Explore Project](proj3_link) |
-| [![Project 4](img_link_4)](proj4_link) | **Project 4** | Data Visualization Tool | 2023-08-20 | [Explore Project](proj4_link) |
-| [![Project 5](img_link_5)](proj5_link) | **Project 5** | Social Media Analytics | 2023-12-10 | [Explore Project](proj5_link) |
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=ozaiithejava&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+</p>
