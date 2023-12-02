@@ -55,3 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ozaiithejava&show_icons=true&count_private=true&theme=nord" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact&theme=nord" alt="Top Languages" />
+</p>
