@@ -52,7 +52,6 @@
 [![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)](https://www.jetbrains.com/phpstorm/)
 [![Android Studio](https://img.shields.io/badge/-Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 
-<!-- GitHub Activity Graph -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=ozaiithejava&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ozaiithejava&show_icons=true&count_private=true&theme=nord" alt="GitHub Stats" />
 </p>
