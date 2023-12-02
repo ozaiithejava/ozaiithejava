@@ -1,7 +1,9 @@
 # Hi, this.yiğit;
 
 
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=LASTFM_ozaiithesexmachine&cover_image=true)
+## 🎶 Now Playing on Spotify
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=LASTFM_USERNAME&cover_image=true)](https://open.spotify.com/user/LASTFM_USERNAME)
+
 
 ## Contact
 
