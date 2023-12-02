@@ -1,5 +1,8 @@
 # Hi, this.yiğit;
 
+
+![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=LASTFM_ozaiithesexmachine&cover_image=true)
+
 ## Contact
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/)
