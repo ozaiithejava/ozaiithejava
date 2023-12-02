@@ -9,7 +9,7 @@ I'm a passionate developer and creative thinker, exploring the endless possibili
 ## 📱 Contact
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](
-https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==)[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
+https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:example@example.com)
 [![Website](https://img.shields.io/badge/-Website-34DB88?style=flat-square&logo=google-chrome&logoColor=white)](https://www.example.com/)
 
