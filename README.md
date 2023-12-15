@@ -7,9 +7,6 @@
 
 I'm a passionate developer and creative thinker, exploring the endless possibilities of the digital world.
 
-m
-![Profile views](https://gpvc.arturio.dev/ozaiithejava)
-
 ## 📱 Contact
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](
