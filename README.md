@@ -2,9 +2,13 @@
   <img src="https://cdn.discordapp.com/attachments/1180532155886084227/1180612368900829305/images_4.jpg?ex=657e0df3&is=656b98f3&hm=4f4f46a92e2163dbb985ef8e95c53da2e90d485765c3002c8343638a9af921d0&" alt="Yiğit's Profile Picture" width="200" height="200" />
 </div>
 
+
 # Hi, I'm Yiğit! 👋
 
 I'm a passionate developer and creative thinker, exploring the endless possibilities of the digital world.
+
+
+[![HitCount](http://hits.dwyl.io/ozaiithejava/ozaiithejava.svg)](http://hits.dwyl.io/ozaiithejava/ozaiithejava)
 
 ## 📱 Contact
 
