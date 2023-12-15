@@ -71,4 +71,4 @@ https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 </p>
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=ozaiithejava&label=VISITORS&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=ozaiithejava)
-![GitHub User's stars](https://img.shields.io/github/stars/ozaiithejava?style=flat-square&logo=bitcoin&logoColor=white&label=My%20Star'S&labelColor=black&color=purple)
+![GitHub User's stars](https://img.shields.io/github/stars/ozaiithejava?style=flat-square&logo=github&logoColor=white&label=My%20Star'S&labelColor=black&color=purple)
