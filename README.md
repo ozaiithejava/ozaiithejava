@@ -7,8 +7,8 @@
 
 I'm a passionate developer and creative thinker, exploring the endless possibilities of the digital world.
 
-
-[![HitCount](http://hits.dwyl.io/ozaiithejava/ozaiithejava.svg)](http://hits.dwyl.io/ozaiithejava/ozaiithejava)
+m
+![Profile views](https://gpvc.arturio.dev/ozaiithejava)
 
 ## 📱 Contact
 
