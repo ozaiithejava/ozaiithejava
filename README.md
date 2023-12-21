@@ -3,8 +3,7 @@
 </div>
 
 
-<img src="https://link.to/your/gif.gif" alt="Alt Text" />
-
+![Harika Bir Görüntü](https://j.gifs.com/wV5lyM)
 
 ## 📱 Contact
 
