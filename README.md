@@ -3,6 +3,9 @@
 </div>
 
 
+<img src="https://link.to/your/gif.gif" alt="Alt Text" />
+
+
 ## 📱 Contact
 
 <div align="center">
