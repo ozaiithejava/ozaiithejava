@@ -19,7 +19,6 @@ https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==) [![Discord](https://im
 
 ### Programming Languages:
 
-<### Programming Languages:
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
