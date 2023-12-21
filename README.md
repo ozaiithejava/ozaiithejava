@@ -3,6 +3,15 @@
   <img src="https://cdn.discordapp.com/attachments/1180532155886084227/1180612368900829305/images_4.jpg?ex=657e0df3&is=656b98f3&hm=4f4f46a92e2163dbb985ef8e95c53da2e90d485765c3002c8343638a9af921d0&" alt="Yiğit's Profile Picture" width="200" height="200" />
 </div>
 
+## 📱 Contact
+
+<div align="center">
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/yigitstack?igshid=OGQ5ZDc2ODk2ZA==)
+  [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/ozaii1337)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ozaiiofficial@gmail.com)
+  [![Website](https://img.shields.io/badge/-Website-34DB88?style=flat-square&logo=google-chrome&logoColor=white)](https://www.ozaiitech.com.tr/)
+</div>
+
 
 # Hi, I'm Yiğit! 👋
 
