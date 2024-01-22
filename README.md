@@ -30,14 +30,34 @@ I'm a passionate developer and creative thinker, exploring the endless possibili
 
 ### Programming Languages:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
-  <img src="https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp" alt="C#" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java" alt="Java" />
+      <br />Java
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
+      <br />Kotlin
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Groovy-4298B8?style=flat-square&logo=apache-groovy&logoColor=white" alt="Groovy" />
+      <br />Groovy
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+      <br />JavaScript
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+      <br />TypeScript
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+      <br />Go
+    </td>
+  </tr>
+</table>
 
 ### Databases:
 
