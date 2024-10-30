@@ -1,21 +1,20 @@
 
 ---
 
-# 🚀 Yiğit Oğuz.
+# 🚀 Yiğit Oğuz
 
 **Senior Java Backend Developer | Server-Side Expert**
 
 ---
-### "Building high-performance, scalable systems with a passion for perfection."
+> "Building high-performance, scalable systems with a passion for perfection."
 
 ---
 
-
 ### 👋 About Me
 
-I'm Yiğit, a highly skilled backend developer with an expertise in Java and a focus on building scalable, secure, and efficient systems. Over the years, I've been deeply involved in backend/server-side development, optimizing for performance and reliability while integrating best practices in software architecture and data management. My approach combines robust engineering with a creative edge, always aiming to exceed expectations in delivering solutions that truly make an impact.
+I'm Yiğit, a highly skilled backend developer with expertise in Java and a passion for building scalable, secure, and efficient systems. With years of hands-on experience in backend/server-side development, I optimize for performance and reliability while integrating best practices in software architecture and data management. I am committed to delivering impactful solutions through robust engineering and a creative approach, always aiming to exceed expectations.
 
---- 
+---
 
 ## 💼 Core Skills & Technologies
 
@@ -87,7 +86,11 @@ I'm Yiğit, a highly skilled backend developer with an expertise in Java and a f
 
 ---
 
+<div align="center">
+  
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=ozaiithejava&label=VISITORS&labelColor=%23ba68c8&countColor=%23263759&style=flat-square&labelStyle=none)](https://visitorbadge.io/status?path=ozaiithejava)
 ![GitHub User's stars](https://img.shields.io/github/stars/ozaiithejava?style=flat-square&logo=github&logoColor=white&label=My%20Stars&labelColor=black&color=purple) 
 
----
+</div>
+
+--- 
