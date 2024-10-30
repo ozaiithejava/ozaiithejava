@@ -71,7 +71,7 @@ I'm Yiğit, a highly skilled backend developer with an expertise in Java and a f
   <a href="mailto:ozaiiofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://www.ozaiitech.com.tr/" target="_blank">
+  <a href="https://www.ozaiidev.com.tr/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-34DB88?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </div>
