@@ -12,7 +12,7 @@
 
 ### 👋 About Me
 
-I'm Yiğit, a highly skilled backend developer with expertise in Java and a passion for building scalable, secure, and efficient systems. With years of hands-on experience in backend/server-side development, I optimize for performance and reliability while integrating best practices in software architecture and data management. I am committed to delivering impactful solutions through robust engineering and a creative approach, always aiming to exceed expectations.
+I'm Yiğit, a highly skilled backend developer with expertise in **Java**, **Go (Golang)**, and **Python**, and a passion for building scalable, secure, and efficient systems. With years of hands-on experience in backend/server-side development, I optimize for performance and reliability while integrating best practices in software architecture and data management. I am committed to delivering impactful solutions through robust engineering and a creative approach, always aiming to exceed expectations.
 
 ---
 
@@ -22,8 +22,8 @@ I'm Yiğit, a highly skilled backend developer with expertise in Java and a pass
 
 **Languages:**  
 <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/-Groovy-4298B8?style=for-the-badge&logo=apache-groovy&logoColor=white" alt="Groovy" />
+<img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go (Golang)" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
 **Frameworks & Tools:**  
 <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" />
@@ -93,4 +93,4 @@ I'm Yiğit, a highly skilled backend developer with expertise in Java and a pass
 
 </div>
 
---- 
+---
