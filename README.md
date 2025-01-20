@@ -1,7 +1,7 @@
 
 ---
 
-# 🚀 Yiğit Oğuz
+# 🚀 Yiğit 
 
 **Senior Java Backend Developer | Server-Side Expert**
 
