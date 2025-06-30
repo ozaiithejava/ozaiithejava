@@ -1,14 +1,18 @@
 # 👋 Hi, I'm Yiğit - Backend Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Backend+Developer+%7C+7%2B+Years+Experience;Java+%7C+Go+%7C+Python+%7C+Cloud+Architecture" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Backend%20Developer&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Backend-Developer-00D9FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Experience-7%2B_Years-FF6B6B?style=flat-square" />
-  <img src="https://img.shields.io/badge/Location-Turkey-4ECDC4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Available-45B7D1?style=flat-square" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=🚀+Backend+Developer+%7C+7%2B+Years+Experience;💻+Java+%7C+Go+%7C+Python+%7C+Cloud+Architecture;⚡+Building+Scalable+Systems+%26+APIs;🌟+Microservices+%7C+DevOps+%7C+Performance+Expert" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯_Backend-Developer-00D9FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/💪_Experience-7%2B_Years-FF6B6B?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🌍_Location-Turkey-4ECDC4?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/📧_Status-Available-45B7D1?style=for-the-badge&logoColor=white" />
 </div>
 
 ---
@@ -29,38 +33,45 @@ I'm a passionate backend developer who loves building scalable systems and solvi
 ## 🛠️ Tech Stack
 
 ### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java_17%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1a1a)
+![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1a1a)
+![Python](https://img.shields.io/badge/Python_3.11-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1a1a)
 
 ### Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&labelColor=1a1a1a)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a1a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=1a1a1a)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white&labelColor=1a1a1a)
+![Microservices](https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
+![REST API](https://img.shields.io/badge/REST_API-4ECDC4?style=for-the-badge&logoColor=white&labelColor=1a1a1a)
 
 ### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a1a)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a1a)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a1a)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white&labelColor=1a1a1a)
 
 ### Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=1a1a1a)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white&labelColor=1a1a1a)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1a1a)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a1a)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ozaiithejava&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact&theme=dark&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=ozaiithejava&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&count_private=true&include_all_commits=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozaiithejava&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozaiithejava&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozaiithejava&theme=react&hide_border=true&background=0d1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00D9FF&sideNums=00D9FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ozaiithejava&bg_color=0d1117&color=ffffff&line=00D9FF&point=ff6b6b&area=true&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -89,9 +100,13 @@ I'm a passionate backend developer who loves building scalable systems and solvi
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ozaiithejava&style=flat-square&color=00D9FF" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ozaiithejava&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <div align="center">
   <i>⭐ Feel free to star my repositories if you find them useful!</i>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" />
 </div>
