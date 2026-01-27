@@ -22,6 +22,12 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4qf14544308e7tz0t58uda7db&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff007b&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=4qf14544308e7tz0t58uda7db&redirect=true)
 
+<br/>
+
+### 💻 Currently Coding
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/1078342402743488532?theme=dark&bg=0d1117&borderRadius=10px&idleMessage=Not%20coding%20right%20now)](https://discord.com/users/ozaii1337)
+
 </div>
 
 <br/>
