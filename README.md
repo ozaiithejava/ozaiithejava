@@ -20,7 +20,7 @@
 
 ### 🎧 Currently Listening On Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4qf14544308e7tz0t58uda7db&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=4qf14544308e7tz0t58uda7db&cover_image=true&theme=spotify-embed&show_offline=true&background_color=ff007b&interchange=true&profanity=true&bar_color=53b14f&bar_color_cover=true&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=4qf14544308e7tz0t58uda7db&redirect=true)
 
 </div>
 
