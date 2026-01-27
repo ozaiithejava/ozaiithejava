@@ -1,8 +1,10 @@
 <div align="center">
 
-# Yiğit
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Yiğit&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20•%207+%20Years%20Experience&descSize=20&descAlignY=55" />
 
-Backend Developer • 7+ Years Experience
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=900&height=140&lines=Merhaba%2C+buradas%C4%B1n+demek!+👋;Burada+oldu%C4%9Funa+g%C3%B6re+beni+tan%C4%B1yorsun+ya+da+bana+ihtiyac%C4%B1n+var+demek+🤝;Beni+Discord'dan+ekleyebilir+veya+mail+atabilirsin+📧;Genelde+hemen+d%C3%B6n%C3%BC%C5%9F+yapar%C4%B1m+⚡;%C3%9Ccretsiz+yard%C4%B1m+etmemden+%C5%9F%C3%BCphen+olmas%C4%B1n+💪;Open+Source'a+tam+destek!+🚀" alt="Typing SVG" />
 
 <br/>
 
@@ -54,15 +56,17 @@ Backend Developer • 7+ Years Experience
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozaiiofficial@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=safari&logoColor=white)](https://www.ozaiidev.com.tr/)
-[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yigitstack)
-[![Discord](https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/ozaii1337)
+[![Email](https://img.shields.io/badge/📧_Email-0d1117?style=for-the-badge&logoColor=white)](mailto:ozaiiofficial@gmail.com)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=white)](https://www.ozaiidev.com.tr/)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-0d1117?style=for-the-badge&logoColor=white)](https://instagram.com/yigitstack)
+[![Discord](https://img.shields.io/badge/💬_Discord-0d1117?style=for-the-badge&logoColor=white)](https://discord.com/users/ozaii1337)
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=ozaiithejava&style=flat-square&color=58a6ff" />
+<img src="https://komarev.com/ghpvc/?username=ozaiithejava&style=for-the-badge&color=58a6ff&label=👁️+Profile+Views" />
 
 </div>
 
 <br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" />
