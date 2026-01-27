@@ -20,7 +20,7 @@
 
 ### 🎧 Currently Listening On Spotify
 
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4qf14544308e7tz0t58uda7db&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4qf14544308e7tz0t58uda7db&redirect=true)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=4qf14544308e7tz0t58uda7db&cover_image=true&theme=default&show_offline=true&background_color=0d1117&interchange=false&bar_color=58a6ff&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=4qf14544308e7tz0t58uda7db&redirect=true)
 
 </div>
 
