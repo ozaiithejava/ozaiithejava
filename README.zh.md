@@ -1,4 +1,4 @@
-<p align="center">[English](README.md) · [Türkçe](README.tr.md) · **中文**</p>
+<p align="center"><a href="README.md">English</a> · <a href="README.tr.md">Türkçe</a> · <strong>中文</strong></p>
 
 <img src="assets/header.zh.svg" width="100%" alt="Yiğit" />
 
