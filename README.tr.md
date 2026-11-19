@@ -1,4 +1,4 @@
-<p align="center"><strong>English</strong> · <a href="README.tr.md">Türkçe</a> · <a href="README.zh.md">中文</a></p>
+<p align="center"><a href="README.md">English</a> · <strong>Türkçe</strong> · <a href="README.zh.md">中文</a></p>
 
 <img src="assets/header.tr.svg" width="100%" alt="Yiğit" />
 
