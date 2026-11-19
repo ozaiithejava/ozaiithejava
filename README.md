@@ -1,4 +1,4 @@
-<img src="assets/header.svg" width="100%" alt="Yiğit — Senior Backend Engineer" />
+<img src="header.svg" width="100%" alt="Yiğit — Senior Backend Engineer" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 </td>
 <td width="52%" valign="top">
 
-<img src="assets/terminal.svg" width="100%" alt="stack" />
+<img src="terminal.svg" width="100%" alt="stack" />
 
 </td>
 </tr>
