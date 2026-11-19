@@ -1,30 +1,33 @@
-# Yiğit
+<img src="assets/header.svg" width="100%" alt="Yiğit — Senior Backend Engineer" />
 
-**Backend Developer** with 8+ years of experience building distributed systems and scalable infrastructure.
+<br/>
 
----
+<table>
+<tr>
+<td width="48%" valign="top">
 
-## About
+### Hakkımda
 
-I specialize in designing and delivering high-performance backend services — from API design and data modeling to deployment and observability. I care about clean code, reliable systems, and long-term maintainability.
+10+ yıldır Java geliştiriyorum. Dağıtık sistemler ve ölçeklenebilir altyapı kuruyorum; bunun yanında 5+ yıldır LWJGL ile OpenGL / Vulkan üzerinde gerçek zamanlı grafik yazıyorum.
 
-- Based in Turkey
-- [ozaiiofficial@gmail.com](mailto:ozaiiofficial@gmail.com)
-- [ozaiidev.com.tr](https://www.ozaiidev.com.tr/)
+- Ağ programlama, kriptografi, çok iş parçacıklı ortamlar
+- JVM bytecode manipülasyonu (OW2 ASM)
+- Türkiye'den çalışıyorum
 
----
+</td>
+<td width="52%" valign="top">
 
-## Stack
+<img src="assets/terminal.svg" width="100%" alt="stack" />
 
-| Layer | Technologies |
-|---|---|
-| **Languages** | Java · Go · Python |
-| **Frameworks** | Spring Boot |
-| **Databases** | PostgreSQL · MongoDB · Redis |
-| **Infra** | Docker · Kubernetes · AWS · Kafka |
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-## Connect
-
-[Email](mailto:ozaiiofficial@gmail.com) · [Portfolio](https://www.ozaiidev.com.tr/) · [Instagram](https://instagram.com/yigitstack) · [Discord](https://discord.com/users/ozaii1337)
+<p align="center">
+  <a href="mailto:ozaiiofficial@gmail.com">Email</a> &nbsp;|&nbsp;
+  <a href="https://www.ozaiidev.com.tr/">Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://instagram.com/yigitstack">Instagram</a> &nbsp;|&nbsp;
+  <a href="https://discord.com/users/ozaii1337">Discord</a>
+</p>
